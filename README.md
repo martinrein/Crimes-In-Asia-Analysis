@@ -1,4 +1,4 @@
-# Crimes-In-Asia-Analysis
+# Crimes In Asia Analysis
 
 This repository aims to understand the various crimes that are being committed in the region of Asia Pacific. 
 
@@ -8,7 +8,7 @@ The Jupyter notebook used interactive plots to view the data as accurate as poss
 
 ### Prerequisites
 
-Anaconda version 4.7.9
+* Anaconda version 4.7.9
 
 ### Installing
 
@@ -36,3 +36,10 @@ $ conda install -c plotly chart-studio=1.0.0
 ## Running the tests
 
 Run the notebook using Anaconda
+
+## Data Sources
+
+* [UNODC Statistics and Data Website](https://dataunodc.un.org/crime)
+* [World Bank Data (1960 to 2016)](https://www.kaggle.com/gemartin/world-bank-data-1960-to-2016)
+
+
