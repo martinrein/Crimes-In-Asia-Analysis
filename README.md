@@ -10,7 +10,7 @@ The Jupyter notebook used interactive plots to view the data as accurate as poss
 
 * Anaconda version 4.7.9
 
-### Installing
+### Installation
 
 Install Plot.ly
 
@@ -33,7 +33,10 @@ or using conda
 ```
 $ conda install -c plotly chart-studio=1.0.0
 ```
-## Running the Program
+
+## Usage
+
+### Running the Program
 
 Run the notebook using Anaconda
 
