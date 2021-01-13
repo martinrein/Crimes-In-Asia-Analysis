@@ -36,3 +36,10 @@ $ conda install -c plotly chart-studio=1.0.0
 ## Running the tests
 
 Run the notebook using Anaconda
+
+## Data Sources
+
+* [UNODC Statistics and Data Website](https://dataunodc.un.org/crime)
+* [World Bank Data (1960 to 2016)](https://www.kaggle.com/gemartin/world-bank-data-1960-to-2016)
+
+
