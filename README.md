@@ -1,4 +1,4 @@
-# Crimes-In-Asia-Analysis
+# Crimes In Asia Analysis
 
 This repository aims to understand the various crimes that are being committed in the region of Asia Pacific. 
 
@@ -8,7 +8,7 @@ The Jupyter notebook used interactive plots to view the data as accurate as poss
 
 ### Prerequisites
 
-Anaconda version 4.7.9
+* Anaconda version 4.7.9
 
 ### Installing
 
