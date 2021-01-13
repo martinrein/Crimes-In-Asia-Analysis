@@ -33,7 +33,7 @@ or using conda
 ```
 $ conda install -c plotly chart-studio=1.0.0
 ```
-## Running the tests
+## Running the Program
 
 Run the notebook using Anaconda
 
